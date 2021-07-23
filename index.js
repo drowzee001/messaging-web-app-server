@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://main.d2um1sk5kilrcy.amplifyapp.com",
+    origin: "https://messaging-web-app.donovanrowzee.net",
     credentials: true,
   })
 );
