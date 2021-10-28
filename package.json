@@ -8,16 +8,8 @@
     "start": "node index.js",
     "server": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/drowzee001/messaging-web-app-server.git"
-  },
   "author": "Donovan Rowzee",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/drowzee001/messaging-web-app-server/issues"
-  },
-  "homepage": "https://github.com/drowzee001/messaging-web-app-server#readme",
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "bcryptjs": "^2.4.3",
