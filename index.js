@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://messaging-web-app.donovanrowzee.net",
+    origin: "https://messaging-web-app.donovanrowzee.com",
     credentials: true,
   })
 );
